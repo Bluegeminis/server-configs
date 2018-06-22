@@ -1,1 +1,4 @@
 
+[submodule "serverA"]
+	path = serverA
+	url = https://github.com/Bluegeminis/serverA.git
